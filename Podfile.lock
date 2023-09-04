@@ -1,0 +1,28 @@
+PODS:
+  - JetPayMSDKCore (1.0.0)
+  - R.swift (7.3.2)
+  - SwiftSpinner (2.2.0)
+  - Toaster (2.3.0)
+
+DEPENDENCIES:
+  - JetPayMSDKCore
+  - R.swift
+  - SwiftSpinner
+  - Toaster
+
+SPEC REPOS:
+  trunk:
+    - JetPayMSDKCore
+    - R.swift
+    - SwiftSpinner
+    - Toaster
+
+SPEC CHECKSUMS:
+  JetPayMSDKCore: f9a88d4c6f71ae0cb6d927bb367cb139c7f9b548
+  R.swift: 0af0d882f49f03711415cb4e5215daa977d8a480
+  SwiftSpinner: f9b59477fe107427f2b5b835497d6636fa167ede
+  Toaster: c3473963c78e8cabbf6ea6f11ad0fdaae6f54987
+
+PODFILE CHECKSUM: 85baf0e6a03db5bf049bca11b018425e28ff0da0
+
+COCOAPODS: 1.12.1
